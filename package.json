@@ -1,0 +1,9 @@
+{
+  "name": "hackbattl.es",
+  "version": "1.0.0",
+  "description": "Landing page/info site for HackBattles",
+  "main": " ",
+  "repository": "git@github.com:HackBattles/hackbattl.es.git",
+  "author": "Eran Schoellhorn<me@eran.sh>",
+  "license": "MIT"
+}
