@@ -5,6 +5,10 @@
   "main": " ",
   "repository": "git@github.com:HackBattles/hackbattl.es.git",
   "author": "Eran Schoellhorn<me@eran.sh>",
+  "scripts": {
+    "dev": "./node_modules/.bin/gatsby develop",
+    "build": "./node_modules/.bin/gatsby build"
+  },
   "license": "MIT",
   "dependencies": {
     "gatsby": "^1.4.0",
