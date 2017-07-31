@@ -8,6 +8,7 @@ install:
   - yarn
 
 script:
+  - rm -rf public
   - yarn build
 
 deploy:
