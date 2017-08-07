@@ -15,7 +15,7 @@ const Index = ({ data }) => (
     <h2>More</h2>
     <p>
       Want to host a HackBattle in your area?<br />
-      Visit the <a href="https://github.com/HackBattles/hackbattl.es>">HackBattles Github repo</a> for information.
+      Visit the <a href="https://github.com/HackBattles/hackbattl.es">HackBattles Github repo</a> for information.
     </p>
   </div>
 );
