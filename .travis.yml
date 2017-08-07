@@ -1,0 +1,21 @@
+language: node_js
+node_js:
+  - "8"
+
+cache: yarn
+
+install:
+  - yarn
+
+script:
+  - rm -rf public
+  - yarn build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  target_branch: gh-pages
+  local_dir: public
+  on:
+    branch: master
