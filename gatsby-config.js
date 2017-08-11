@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'HackBattles',
-    description: 'A regional tech throwdown in which local companies and groups together compete on a common goal to determine who is the ultimate champion.',
+    description: 'A regional tech throwdown in which local companies and groups come together to compete for a common goal and to determine who is the ultimate champion.',
   },
   plugins: [
     'gatsby-plugin-sass',
