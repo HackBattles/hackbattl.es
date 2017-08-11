@@ -1,8 +1,12 @@
 ---
 path: "/fl/gnv/discover-gainesville"
-date: "2017-08-26"
-location: "Gainesville, FL"
 title: "Discover Gainesville"
+location: "Gainesville, FL"
+venue: "Infinity Hall"
+address: "978 SW 2nd Ave., Gainesville, FL 32601"
+date: "2017-08-26"
+time: "9:00am - 6:00pm EST"
+registrationUrl: "https://hackbattles.typeform.com/to/QwEfjF"
 ---
 
 ## Information
