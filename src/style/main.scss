@@ -1,18 +1,18 @@
 $dark-gray: #191919;
 $deep-purple: #1a1a38;
-$piercing-red: #D0011B;
+$piercing-red: #d0c759;
+$muted-blue-grey: #333d49;
 
-$shadow-params: 0 0 0.5em black;
+$shadow-params: 0 0 0.5em rgba(0, 0, 0, 0.5);
 
 body {
-  overflow: hidden;
-  width: 100vw;
-  height: 100vh;
-  background: $dark-gray; // linear-gradient(0deg, $dark-gray 0%, $deep-purple 100%);
+  min-height: 100vh;
+  background: $muted-blue-grey;
   display: flex;
   color: dimgray;
   text-shadow: $shadow-params;
   box-sizing: border-box;
+  line-break: normal;
 }
 
 * {
@@ -61,12 +61,15 @@ p {
   width: 100%;
   max-width: 100vw;
   padding: 0 1em;
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 768px) {
     max-width: 50vw;
   }
 }
 
 .header {
+  @media screen and (max-width: 400px) {
+    font-size: 10px;
+  }
   &__title,
   &__byline {
     color: $piercing-red;
