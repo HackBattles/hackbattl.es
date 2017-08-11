@@ -10,9 +10,9 @@ const Index = ({ data }) => (
       title={data.site.siteMetadata.title}
       byline={data.site.siteMetadata.description}
     />
-    <h2>Upcoming</h2>
+    <h2>Upcoming Battles</h2>
     <a href="/fl/gnv/discover-gainesville">Gainesville, FL - August 26, 2017</a>
-    <h2>More</h2>
+    <h2>More Information</h2>
     <p>
       Want to host a HackBattle in your area?<br />
       Visit the <a href="https://github.com/HackBattles/hackbattl.es">HackBattles Github repo</a> for information.
