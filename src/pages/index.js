@@ -10,6 +10,7 @@ const Index = ({ data }) => (
       title={data.site.siteMetadata.title}
       byline={data.site.siteMetadata.description}
     />
+    <img src="/static/images/dancing_eran.gif" alt="Boogy down with Eran" />
     <h2>Upcoming Battles</h2>
     <a href="/fl/gnv/discover-gainesville">Gainesville, FL - August 26, 2017</a>
     <h2>More Information</h2>
