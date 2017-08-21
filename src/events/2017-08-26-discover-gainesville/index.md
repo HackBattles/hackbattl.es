@@ -12,6 +12,11 @@ registrationUrl: "https://hackbattles.typeform.com/to/QwEfjF"
 ## Information
 Join #hackgnv on the [GNV Connect](https://gnvconnect.com/) Slack Group for discussions.
 
+**Team Size:** 1 -4 people  
+**Team Makeup:** Formed around common interest. Company, Meetup Group, Community Organization etc.  
+**Cost:** Free or $10 per person for t-shirts  
+**Prize:** Super Awesome Trophy
+
 ## Introduction
 Surrounding you, in Gainesville, lies a vast network of disparate communities, sizable local government and infrastructure, and a rich history of industry and culture. It’s up to you, the competitors of HackBattles: Gainesville to find new, exciting ways of connecting, informing, and otherwise improving the Gainesville experience.
 
