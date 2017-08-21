@@ -1,0 +1,32 @@
+{
+  "assetsByChunkName": {
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-4631062d0b0ed4afc9b9.js",
+      "page-component---src-pages-index-js-4631062d0b0ed4afc9b9.js.map"
+    ],
+    "page-component---src-layouts-event-js": [
+      "page-component---src-layouts-event-js-a383aba8458de8673f08.js",
+      "page-component---src-layouts-event-js-a383aba8458de8673f08.js.map"
+    ],
+    "path---fl-gnv-discover-gainesville": [
+      "path---fl-gnv-discover-gainesville-aac6335459d8e7af4381.js",
+      "path---fl-gnv-discover-gainesville-aac6335459d8e7af4381.js.map"
+    ],
+    "path---index": [
+      "path---index-584e3a1325829eb848d9.js",
+      "path---index-584e3a1325829eb848d9.js.map"
+    ],
+    "commons": [
+      "commons-03d4337509a8abb13542.js",
+      "commons-03d4337509a8abb13542.js.map"
+    ],
+    "app": [
+      "app-857b801b2f03918ee8c3.js",
+      "app-857b801b2f03918ee8c3.js.map"
+    ],
+    "layout-component---index": [
+      "layout-component---index-5ef5c06dd5a62430f7f1.js",
+      "layout-component---index-5ef5c06dd5a62430f7f1.js.map"
+    ]
+  }
+}

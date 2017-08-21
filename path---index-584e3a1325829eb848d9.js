@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e42603000],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,o){e.exports={data:{site:{siteMetadata:{title:"HackBattles",description:"A regional tech throwdown in which local companies and groups come together to compete for a common goal and to determine who is the ultimate champion."}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-584e3a1325829eb848d9.js.map
