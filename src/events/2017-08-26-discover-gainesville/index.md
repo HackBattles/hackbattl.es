@@ -12,7 +12,7 @@ registrationUrl: "https://hackbattles.typeform.com/to/QwEfjF"
 ## Information
 Join #hackgnv on the [GNV Connect](https://gnvconnect.com/) Slack Group for discussions.
 
-**Team Size:** 1 -4 people  
+**Team Size:** 1 - 4 people
 **Team Makeup:** Formed around common interest. Company, Meetup Group, Community Organization etc.  
 **Cost:** Free or $10 per person for t-shirts  
 **Prize:** Super Awesome Trophy
